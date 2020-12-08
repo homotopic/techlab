@@ -1,0 +1,36 @@
+name:                techlab
+version:             0.1.0.0
+git:                 https://gitlab.com/homotopic-tech/
+license:             MIT
+author:              "Daniel Firth"
+maintainer:          "dan.firth@homotopic.tech"
+copyright:           "2020 Daniel Firth"
+
+extra-source-files:
+- README.md
+- ChangeLog.md
+
+synopsis:            Bleeding edge prelude
+category:            Prelude
+
+dependencies:
+- base >= 4.7 && < 5
+- chassis
+- co-log-polysemy
+- composite-base
+- containers
+- dhall
+- formatting
+- optics
+- path-dhall-instance
+- polysemy
+- polysemy-extra
+- polysemy-fs
+- polysemy-plugin
+- polysemy-methodology
+- polysemy-methodology-composite
+- polysemy-vinyl
+- polysemy-zoo
+
+library:
+  source-dirs: src
