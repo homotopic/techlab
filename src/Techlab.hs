@@ -3,6 +3,7 @@ module Techlab (
 , module Composite.Record
 , module Optics
 , module Polysemy
+, module Polysemy.Extra
 , module Polysemy.Error
 , module Polysemy.FS
 , module Polysemy.Input
@@ -21,6 +22,7 @@ import Composite.Record
 import Optics
 import Path.Dhall ()
 import Polysemy
+import Polysemy.Extra
 import Polysemy.Error hiding (fromException)
 import Polysemy.FS
 import Polysemy.Input

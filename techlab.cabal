@@ -5,7 +5,7 @@ cabal-version: 1.12
 -- see: https://github.com/sol/hpack
 
 name:           techlab
-version:        0.1.0.0
+version:        0.1.1.0
 synopsis:       Bleeding edge prelude
 category:       Prelude
 author:         Daniel Firth
@@ -27,7 +27,6 @@ library
       Techlab
       Techlab.Dhall
       Techlab.Formatting
-      Techlab.Optics
   other-modules:
       Paths_techlab
   hs-source-dirs:
