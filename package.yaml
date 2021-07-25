@@ -1,5 +1,5 @@
 name:                techlab
-version:             0.1.1.0
+version:             0.1.2.0
 git:                 https://gitlab.com/homotopic-tech/
 license:             MIT
 author:              "Daniel Firth"
@@ -26,11 +26,11 @@ dependencies:
 - polysemy
 - polysemy-extra
 - polysemy-fs
+- polysemy-kvstore >= 0.1.0.0 && < 0.2
 - polysemy-plugin
 - polysemy-methodology
 - polysemy-methodology-composite
 - polysemy-vinyl
-- polysemy-zoo
 
 library:
   source-dirs: src
