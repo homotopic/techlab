@@ -2,8 +2,7 @@ resolver: nightly-2021-07-23
 packages:
 - .
 extra-deps:
-- co-log-polysemy-0.0.1.2
-- co-log-core-0.2.1.1
+- composite-dhall-0.0.1.0
 - chassis-0.0.5.0
 - git: https://github.com/locallycompact/composite
   commit: 5644183439960e63d06ef8ec5e85c25356c6b1fc

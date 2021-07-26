@@ -16,8 +16,8 @@ category:            Prelude
 dependencies:
 - base >= 4.7 && < 5
 - chassis
-- co-log-polysemy
 - composite-base
+- composite-dhall
 - containers
 - dhall
 - formatting

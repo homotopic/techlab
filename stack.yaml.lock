@@ -5,6 +5,13 @@
 
 packages:
 - completed:
+    hackage: composite-dhall-0.0.1.0@sha256:11b6d8e70eff854d44056695509bf6737352a5c3e6e8ce71b03e9d11630c719a,1015
+    pantry-tree:
+      size: 276
+      sha256: d757c65876f350d82236ae8037c973adc69a22624475764a156ba122cdf48175
+  original:
+    hackage: composite-dhall-0.0.1.0
+- completed:
     hackage: co-log-polysemy-0.0.1.2@sha256:a6ea6103f5ca806dc16bcdbb666ee2ebafdbbf36a9626f33103105a41a55d561,3645
     pantry-tree:
       size: 400
