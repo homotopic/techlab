@@ -17,6 +17,7 @@ module Techlab
     module Polysemy.State,
     module Polysemy.Tagged,
     module Polysemy.Vinyl,
+    module Torsor,
   )
 where
 
@@ -39,3 +40,4 @@ import Polysemy.Resource
 import Polysemy.State
 import Polysemy.Tagged
 import Polysemy.Vinyl
+import Torsor
