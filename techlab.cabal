@@ -42,6 +42,7 @@ library
     , first-class-families
     , formatting
     , optics ==0.4
+    , torsor
     , path-dhall-instance
     , polysemy
     , polysemy-extra
