@@ -25,6 +25,7 @@ source-repository head
 library
   exposed-modules:
       Techlab
+      Techlab.Composite
       Techlab.Dhall
       Techlab.Formatting
   other-modules:
@@ -38,6 +39,7 @@ library
     , composite-dhall
     , containers
     , dhall
+    , first-class-families
     , formatting
     , optics
     , path-dhall-instance
@@ -47,6 +49,6 @@ library
     , polysemy-kvstore >=0.1.0.0 && <0.2
     , polysemy-methodology
     , polysemy-methodology-composite
-    , polysemy-plugin
+    , polysemy-path
     , polysemy-vinyl
   default-language: Haskell2010

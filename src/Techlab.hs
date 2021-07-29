@@ -13,6 +13,7 @@ module Techlab
     module Polysemy.Methodology.Composite,
     module Polysemy.Output,
     module Polysemy.Resource,
+    module Polysemy.Path,
     module Polysemy.State,
     module Polysemy.Tagged,
     module Polysemy.Vinyl,
@@ -33,6 +34,7 @@ import Polysemy.KVStore
 import Polysemy.Methodology
 import Polysemy.Methodology.Composite
 import Polysemy.Output
+import Polysemy.Path
 import Polysemy.Resource
 import Polysemy.State
 import Polysemy.Tagged

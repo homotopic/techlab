@@ -20,6 +20,7 @@ dependencies:
 - composite-dhall
 - containers
 - dhall
+- first-class-families
 - formatting
 - optics
 - path-dhall-instance
@@ -27,7 +28,7 @@ dependencies:
 - polysemy-extra
 - polysemy-fs
 - polysemy-kvstore >= 0.1.0.0 && < 0.2
-- polysemy-plugin
+- polysemy-path
 - polysemy-methodology
 - polysemy-methodology-composite
 - polysemy-vinyl
