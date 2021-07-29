@@ -41,14 +41,14 @@ library
     , dhall
     , first-class-families
     , formatting
-    , optics
+    , optics ==0.4
     , path-dhall-instance
     , polysemy
     , polysemy-extra
     , polysemy-fs
     , polysemy-kvstore >=0.1.0.0 && <0.2
-    , polysemy-methodology
+    , polysemy-methodology >=0.2.0.0 && <0.3
     , polysemy-methodology-composite
-    , polysemy-path
+    , polysemy-path >=0.2.0.0 && <0.3
     , polysemy-vinyl
   default-language: Haskell2010

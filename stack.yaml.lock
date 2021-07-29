@@ -61,7 +61,7 @@ packages:
     hackage: polysemy-methodology-composite-0.1.4.0
 snapshots:
 - completed:
-    size: 567260
-    url: https://raw.githubusercontent.com/commercialhaskell/stackage-snapshots/master/nightly/2021/7/23.yaml
-    sha256: 94c5e73c2221ce53348504de8916c960a78a97bdc6ff0921200a42773694bd7c
-  original: nightly-2021-07-23
+    size: 568097
+    url: https://raw.githubusercontent.com/commercialhaskell/stackage-snapshots/master/nightly/2021/7/29.yaml
+    sha256: d346ad9d97b6e115b21f21a704bff054f2a8e099208b16ce1fa211b84cc12700
+  original: nightly-2021-07-29
