@@ -59,6 +59,13 @@ packages:
       sha256: 1675181a1e6db5ff250b4f4c45c4919c0dd50b1cd69fe5bc3ea3aff20da6b047
   original:
     hackage: polysemy-methodology-composite-0.1.4.0
+- completed:
+    hackage: ixset-typed-0.5@sha256:6b13a0734f180de0b254c1de2d79367e2844ad54120572501a64a22a2b127513,2608
+    pantry-tree:
+      size: 475
+      sha256: 72ae29cc7203c16030348897e8ef18d96b439e0e76483647d88b26964b35c300
+  original:
+    hackage: ixset-typed-0.5
 snapshots:
 - completed:
     size: 568097

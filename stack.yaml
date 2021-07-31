@@ -12,6 +12,7 @@ extra-deps:
 - polysemy-path-0.2.1.0
 - polysemy-methodology-0.2.0.0
 - polysemy-methodology-composite-0.1.4.0
+- ixset-typed-0.5
 allow-newer: true
 nix:
   packages: [zlib]

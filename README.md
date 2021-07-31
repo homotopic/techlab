@@ -23,6 +23,7 @@ Techlab currently contains re-exports of
 * dhall
 * vinyl/composite
 * formatting
+* dimensional https://hackage.haskell.org/package/dimensional
 * optics
 * ixset-typed
 * path
@@ -36,6 +37,5 @@ Things we plan to add:
 * a parsing library (likely megaparsec)
 * frp/signal processing
 * better attention given towards generics
-* dimensional https://hackage.haskell.org/package/dimensional
 * tutorials, for intermediate haskellers who might want to experiment with
   this, and advanced use cases

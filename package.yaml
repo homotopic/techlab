@@ -20,19 +20,20 @@ dependencies:
 - composite-dhall
 - containers
 - dhall
+- dimensional
 - first-class-families
 - formatting
-- optics == 0.4
-- torsor
+- optics >= 0.1 && < 0.5
 - path-dhall-instance
-- polysemy
+- polysemy >= 1.3.0.0 && < 1.7
 - polysemy-extra
-- polysemy-fs
+- polysemy-fs 
 - polysemy-kvstore >= 0.1.0.0 && < 0.2
 - polysemy-path >= 0.2.0.0 && < 0.3
 - polysemy-methodology >= 0.2.0.0 && < 0.3
 - polysemy-methodology-composite
 - polysemy-vinyl
+- torsor
 
 library:
   source-dirs: src
